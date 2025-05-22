@@ -1,4 +1,4 @@
-# Workflow Metrics Action
+# Workflow Metrics Action 
 
 [![CodeQL](https://github.com/KittyChiu/workflow-metrics/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/KittyChiu/workflow-metrics/actions/workflows/github-code-scanning/codeql) [![Docker Image CI](https://github.com/KittyChiu/workflow-metrics/actions/workflows/docker-image.yml/badge.svg)](https://github.com/KittyChiu/workflow-metrics/actions/workflows/docker-image.yml)
 
